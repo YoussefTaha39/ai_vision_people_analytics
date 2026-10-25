@@ -1,0 +1,18 @@
+# Virtual Environment (do not push to git)
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / Scratch files
+*.tmp
+*.log
+test_*.png
+
+# IDE / Editor settings
+.vscode/
+.idea/
